@@ -1,0 +1,11 @@
+Model Information:
+* title:	Penguin - TFT
+* source:	https://sketchfab.com/3d-models/penguin-tft-eecc4d381b264e2ca105ff90b3b1c6fd
+* author:	Rafael (https://sketchfab.com/rafadesuyo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Penguin - TFT" (https://sketchfab.com/3d-models/penguin-tft-eecc4d381b264e2ca105ff90b3b1c6fd) by Rafael (https://sketchfab.com/rafadesuyo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
